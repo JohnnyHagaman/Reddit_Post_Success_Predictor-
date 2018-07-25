@@ -8,18 +8,22 @@ In this pursuit I scraped Reddit using their native API to attain data on over 5
 # Model Accuracy on holdout data
 
 Logistic Regression: 0.7544
+	
 	Regularization Penalty: Lasso
 	Regularization Strength C: 0.01	
 
 Random Forest Classifier: 0.7609
+	
 	max tree depth: None
 	max tree features: 3
 	n estimators: 40
 
 Bagging Classifier: 0.7593
+	
 	n estimators: 10
 
 Gradient Boosting Classifier: 0.7792
+	
 	max tree depth: 4
 	max features: None
 	n estimators: 100
