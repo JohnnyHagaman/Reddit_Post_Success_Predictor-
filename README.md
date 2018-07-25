@@ -10,17 +10,17 @@ In this pursuit I scraped Reddit using their native API to attain data on over 5
 Logistic Regression w/ Lasso Regularization: 0.7544
 
 Random Forest Classifier: 0.7609
-	max tree depth: None
-	max tree features: 3
-	n estimators: 40
+max tree depth: None
+max tree features: 3
+n estimators: 40
 
 Bagging Classifier: 0.7593
-	n estimators: 10
+n estimators: 10
 
 Gradient Boosting Classifier: 0.7792
-	max tree depth: 4
-	max features: None
-	n estimators: 100
+max tree depth: 4
+max features: None
+n estimators: 100
 
 
 	
