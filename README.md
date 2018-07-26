@@ -1,4 +1,4 @@
-# Reddit_Post_Success_Predictor
+# Reddit Post Binary Success Predictor
 Does tagging a Reddit post with "SPOILER" or "NSFW" correspond with more comments? What's the best time of the day to post content to maximize discussion? What subreddits command the most interaction?
 
 This project is aimed at predicting whether or not an individual reddit post will garner user interaction, measured in unique user comments, in the upper quartile of the posts on Reddit's "Popular" page. 
